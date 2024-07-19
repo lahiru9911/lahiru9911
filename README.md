@@ -1,5 +1,5 @@
 <p align="center">
-  ![Data Analysis GIF](assets/data-analysis.gif)
+  ![Data Analysis GIF](https://images.app.goo.gl/4ykGiSib8UJJtAjZA)
 
 </p>
 
