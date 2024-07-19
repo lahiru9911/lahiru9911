@@ -1,8 +1,6 @@
-<p align="center">
-<img src="https://github.com/lahiru9911/lahiru9911/blob/main/DP%20Image.jpg" alt="HI" width="200"/>
-</p>
-
-## Hello! 👋 
+<h1 style="text-align: center;">
+  Hello!👋
+</h1>
 
 I'm Lahiru Sadakelum 😄 , a data analyst with a passion for turning data into actionable insights. I specialize in Python, SQL, and Excel to analyze and visualize data, helping businesses make informed decisions. 
 
