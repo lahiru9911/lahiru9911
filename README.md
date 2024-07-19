@@ -1,4 +1,4 @@
-## Hi there! 👋
+## Hello! 👋
 
 I'm Lahiru Sadakelum, a data analyst with a passion for turning data into actionable insights. I specialize in Python, SQL, and Excel to analyze and visualize data, helping businesses make informed decisions. 
 
