@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" alt="Description of Image" width="400"/>
+<img src="https://github.com/lahiru9911/lahiru9911/blob/main/DP%20Image.jpg" alt="HI" width="200"/>
 </p>
 
 ## Hello! 👋 
