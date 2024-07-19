@@ -1,5 +1,6 @@
 <p align="center">
-  ![Data Analysis GIF]()
+  ![Data Analysis GIF](assets/data-analysis.gif)
+
 </p>
 
 
