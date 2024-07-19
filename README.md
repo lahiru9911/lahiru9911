@@ -1,3 +1,8 @@
+<p align="center">
+  ![Data Analysis GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3QxeDE2dHFjZW96bGMxbGJoZzNhMjR3aWZlNHpxc3JvaXE0eDA1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SYbKUKZmir9y7l2dYX/giphy.gif)
+</p>
+
+
 ## Hello! 👋
 
 I'm Lahiru Sadakelum, a data analyst with a passion for turning data into actionable insights. I specialize in Python, SQL, and Excel to analyze and visualize data, helping businesses make informed decisions. 
