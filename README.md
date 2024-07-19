@@ -1,6 +1,5 @@
 <p align="center">
-  ![Data Analysis GIF](https://images.app.goo.gl/4ykGiSib8UJJtAjZA)
-
+![Description of Image](https://github.com/username/repository/raw/main/image.png)
 </p>
 
 
