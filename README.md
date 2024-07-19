@@ -2,7 +2,7 @@
 ![Description of Image](https://github.com/lahiru9911/lahiru9911/blob/main/18132.jpg)
 </p>
 
-
+![Description of Image](https://github.com/lahiru9911/lahiru9911/blob/main/18132.jpg)
 ## Hello! 👋 
 
 I'm Lahiru Sadakelum 😄 , a data analyst with a passion for turning data into actionable insights. I specialize in Python, SQL, and Excel to analyze and visualize data, helping businesses make informed decisions. 
