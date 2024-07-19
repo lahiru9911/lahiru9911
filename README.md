@@ -14,7 +14,7 @@ I'm Lahiru, a data analyst with a passion for turning data into actionable insig
 
 Feel free to explore my projects and reach out if you have any questions or collaboration ideas. Let's connect and make data-driven decisions together!
 
-![Data Analysis](https://www.freepik.com/free-vector/big-data-circular-visualization_17013723.htm#fromView=search&page=4&position=49&uuid=15d1c313-17a3-4480-9e2f-73612b016f1a)
+![Data Analysis](https://lottiefiles.com/free-animation/data-analytics-jFkKcsE09u)
 
 
 
