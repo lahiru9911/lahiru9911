@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Lahiru, a data analyst with a passion for turning data into actionable insights. I specialize in Python, SQL, and Excel to analyze and visualize data, helping businesses make informed decisions. 
+I'm Lahiru Sadakelum, a data analyst with a passion for turning data into actionable insights. I specialize in Python, SQL, and Excel to analyze and visualize data, helping businesses make informed decisions. 
 
 ### What I Do:
 - **Data Analysis:** Leveraging Python libraries such as Pandas, NumPy, and Matplotlib to clean, analyze, and visualize data.
@@ -14,7 +14,7 @@ I'm Lahiru, a data analyst with a passion for turning data into actionable insig
 
 Feel free to explore my projects and reach out if you have any questions or collaboration ideas. Let's connect and make data-driven decisions together!
 
-![Data Analysis](https://lottiefiles.com/free-animation/data-analytics-jFkKcsE09u)
+
 
 
 
