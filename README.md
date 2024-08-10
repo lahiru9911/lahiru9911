@@ -10,7 +10,7 @@ I'm Lahiru Sadakelum 😄 , a data analyst with a passion for turning data into 
 - **Excel:** Utilizing advanced Excel functions and statistical analysis for data analysis and reporting.
 
 ### Projects: 📁
-- **:📈 [Data Analysis Project](https://github.com/lahiru9911/Data_Analysis_project_Using_Python):** Analyzing Data and Solve Real World Problems Using Python
+- **:🗃️ [Data Analysis Project](https://github.com/lahiru9911/Data_Analysis_project_Using_Python):** Analyzing Data and Solve Real World Problems Using Python
 - **🤖 [Machine Learning Project](https://github.com/lahiru9911/Machine-Learning-With-Python.git):** Implemented machine learning algorithms on real-life datasets to predict outcomes and uncover patterns.
 - **:file_cabinet: [SQL Project](https://github.com/lahiru9911/Advanced_SQL_Project.git):** Developed comprehensive SQL queries and optimized database performance for data retrieval and analysis.
 - **:chart_with_upwards_trend: [Excel Project](https://github.com/lahiru9911/Adavanced_Excel.git):** Conducted detailed data analysis and created dynamic dashboards using advanced Excel functions and statistical techniques.
