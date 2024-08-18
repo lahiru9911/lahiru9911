@@ -2,7 +2,7 @@
   Hello!👋
 </h1>
 
-I'm Lahiru Sadakelum 😄 , a data analyst with a passion for turning data into actionable insights. I specialize in Python, SQL, and Excel to analyze and visualize data, helping businesses make informed decisions. 
+I'm <h2> Lahiru Sadakelum </h2> 😄 , a data analyst with a passion for turning data into actionable insights. I specialize in Python, SQL, and Excel to analyze and visualize data, helping businesses make informed decisions. 
 
 ### What I Do: 🌿
 - **Data Analysis:** Leveraging Python libraries such as Pandas, NumPy, and Matplotlib to clean, analyze, and visualize data.
